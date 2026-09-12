@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: Personal portfolio projects and hands-on coding challenges<br><br>👯 I’m looking to collaborate on: Beginner-friendly open-source projects and hackathon ideas<br><br>🤝 I’m looking for help with: Best practices in clean code and Git/GitHub workflows<br><br>🌱 I’m currently learning: Data structures & algorithms, Python, and modern web development<br><br>💬 Ask me about: My learning journey, study resources, and favorite developer tools<br>
+🔭 I’m currently working on: Personal portfolio projects and hands-on coding challenges<br><br>👯 I’m looking to collaborate on: Beginner-friendly open-source projects and hackathon ideas<br><br>🤝 I’m looking for help with: Best practices in clean code and Git/GitHub workflows<br><br>🌱 I’m currently learning: Data structures & algorithms, Python, and modern web development<br><br>💬 Ask me about: My learning journey, study resources, and favorite developer tools
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jai Vardhan Kavuru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaivardhan._.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jai Vardhan Kavuru) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jai Vardhan Kavuru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavurujaivardhan@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaivardhan._.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jai-vardhan-kavuru-1b659b39b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavurujaivardhan@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
